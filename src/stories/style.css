@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
+
+@keyframes fade-in {
+  0%,
+  90% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.rowPie {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.colPie {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+.colPie,
+.colPie-1,
+.colPie-10,
+.colPie-11,
+.colPie-12,
+.colPie-2,
+.colPie-3,
+.colPie-4,
+.colPie-5,
+.colPie-6,
+.colPie-7,
+.colPie-8,
+.colPie-9,
+.colPie-auto,
+.colPie-lg,
+.colPie-lg-1,
+.colPie-lg-10,
+.colPie-lg-11,
+.colPie-lg-12,
+.colPie-lg-2,
+.colPie-lg-3,
+.colPie-lg-4,
+.colPie-lg-5,
+.colPie-lg-6,
+.colPie-lg-7,
+.colPie-lg-8,
+.colPie-lg-9,
+.colPie-lg-auto,
+.colPie-md,
+.colPie-md-1,
+.colPie-md-10,
+.colPie-md-11,
+.colPie-md-12,
+.colPie-md-2,
+.colPie-md-3,
+.colPie-md-4,
+.colPie-md-5,
+.colPie-md-6,
+.colPie-md-7,
+.colPie-md-8,
+.colPie-md-9,
+.colPie-md-auto,
+.colPie-sm,
+.colPie-sm-1,
+.colPie-sm-10,
+.colPie-sm-11,
+.colPie-sm-12,
+.colPie-sm-2,
+.colPie-sm-3,
+.colPie-sm-4,
+.colPie-sm-5,
+.colPie-sm-6,
+.colPie-sm-7,
+.colPie-sm-8,
+.colPie-sm-9,
+.colPie-sm-auto,
+.colPie-xl,
+.colPie-xl-1,
+.colPie-xl-10,
+.colPie-xl-11,
+.colPie-xl-12,
+.colPie-xl-2,
+.colPie-xl-3,
+.colPie-xl-4,
+.colPie-xl-5,
+.colPie-xl-6,
+.colPie-xl-7,
+.colPie-xl-8,
+.colPie-xl-9,
+.colPie-xl-auto {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.mb-4,
+.my-4 {
+  margin-bottom: 1.5rem !important;
+}
+
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.TextPie-center {
+  text-align: center !important;
+}
+.pl-3,
+.px-3 {
+  padding-left: 1rem !important;
+}
+
+.leftPieTitle {
+  margin-left: -20px;
+}
+.rightPieTitle {
+  margin-right: -20px;
+}
