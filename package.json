@@ -2,7 +2,8 @@
   "name": "half-pie-chart",
   "version": "1.0.0",
   "description": "Simply use Half Doughnut Chart to compare two element ratio",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
