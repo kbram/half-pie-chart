@@ -4,7 +4,7 @@
 
 ## Features
 
-[![](https://github.com/kbram/files/blob/main/half-pie.png)](http://drbl.in/ezuc)
+[![](https://github.com/kbram/files/blob/main/half-pie.png)](https://github.com/kbram/files/blob/main/half-pie.png)
 
 - Highly customizable
 - Very easy to implement
@@ -51,7 +51,7 @@ $ yarn add half-pie-chart
 #### sample - 01
 
 ```js
-import HalfPieChart from "half-pie-chart";
+import { HalfPieChart } from "half-pie-chart";
 import React, { Component } from "react";
 
 class App extends Component {
@@ -93,7 +93,7 @@ export default App;
 #### sample - 02 (Dark Mode)
 
 ```js
-import HalfPieChart from "half-pie-chart";
+import { HalfPieChart } from "half-pie-chart";
 import React, { Component } from "react";
 
 class App extends Component {
@@ -136,7 +136,7 @@ export default App;
 #### sample - 03 (change bar color and add center text)
 
 ```js
-import HalfPieChart from "half-pie-chart";
+import { HalfPieChart } from "half-pie-chart";
 import React, { Component } from "react";
 
 class App extends Component {
@@ -312,10 +312,7 @@ Native support
 - Chrome
 - Safari
 - FireFox
-- Opera
-- Internet Explorer 9+
 
-Support for Internet Explorer 7 and 8 with [excanvas](https://code.google.com/p/explorercanvas/wiki/Instructions) polyfill.
 
 ## License
 

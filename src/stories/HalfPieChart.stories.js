@@ -2,7 +2,7 @@ import React from "react";
 import {storiesOf} from '@storybook/react'
 
 import { HalfPieChart } from "../components/HalfPieChart";
-import "./style.css";
+
 
 const stories = storiesOf('App Test',module);
 const right= [

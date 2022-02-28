@@ -1,7 +1,6 @@
 // @autor Karunaaharan Bavaram (Package owns by bavaram)
-
 import React, { Component } from "react";
-
+import "./style.css";
 export class HalfPieChart extends Component {
   render() {
     return (
@@ -268,4 +267,4 @@ export class HalfPieChart extends Component {
     );
   }
 }
-export default HalfPieChart;
+
