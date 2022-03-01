@@ -48,6 +48,7 @@
     </li>
     <li><a href="#usage">Usages</a></li>
     <li><a href="#options">Options</a></li>
+    <li><a href="#callArrays">CallArrays</a></li>
     <li><a href="#browser-support">Browser Support</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -113,6 +114,7 @@ Using yarn:
 ```bash
 $ yarn add half-pie-chart
 ```
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
