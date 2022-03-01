@@ -1,10 +1,67 @@
-# half-pie-chart
+<div id="top"></div>
 
-> Simply use Half Doughnut Chart to compare two element ratio
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Features
+<br />
+
+<!-- PROJECT LOGO -->
+<div align="center">
+  <a href="https://github.com/kbram/half-pie-chart">
+    <img src="https://github.com/kbram/files/blob/main/half-pie-icon.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">half-pie-chart</h3>
+
+  <p align="center">
+    Simply use Half Doughnut Chart to compare two element ratio
+    <br />
+    <a href="https://github.com/kbram/half-pie-chart"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/kbram/half-pie-chart">View Demo</a>
+    ·
+    <a href="https://github.com/kbram/half-pie-chart/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/kbram/half-pie-chart/issues">Request Feature</a>
+  </p>
+</div>
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+   <li><a href="#about-project">About Project</a></li>
+   <li><a href="#features">Features</a></li>
+    <li><a href="#framework-support">Framework support</a></li>
+    <li><a href="#built-With">Built With</a></li>
+    <li>
+      <a href="#get-started">Get Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usages</a></li>
+    <li><a href="#options">Options</a></li>
+    <li><a href="#browser-support">Browser Support</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+<!-- PROJECT FEATHERS -->
+## About Project
 
 [![](https://github.com/kbram/files/blob/main/half-pie.png)](https://github.com/kbram/files/blob/main/half-pie.png)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Features
 
 - Highly customizable
 - Very easy to implement
@@ -15,9 +72,22 @@
 - No need other front-end css stuff
 - Dark, light modes available and text back colors are editable
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## framework support
 
 - React JS _(no dependencies)_
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Built With
+
+
+* [React.js](https://reactjs.org/)
+* [JavaScript](https://www.javascript.com/)
+* [css]()
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Get started
 
@@ -178,6 +248,8 @@ class App extends Component {
 }
 export default App;
 ```
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 ## Options
 
@@ -252,6 +324,8 @@ You can pass these options to the initialize function to set a custom look and f
     </tr>
 </table>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## CallArrays
 
 This array have value and visible text of pie chart 
@@ -305,6 +379,8 @@ left: [{
     </tr>
 </table>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Browser Support
 
 Native support
@@ -313,14 +389,32 @@ Native support
 - Safari
 - FireFox
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
 
 [MIT](LICENSE)
 
 
-> Developed by Karunaaharan Bavaram
+> Developed by [`Karunaaharan Bavaram`](https://www.bavaram.info)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Copyright
 
-Copyright (c) 2022 Karunaaharan Bavaram, contributors. Released under the MIT, GPL licenses
+Copyright (c) 2022 [`Karunaaharan Bavaram`](https://www.bavaram.info), contributors. Released under the MIT, GPL licenses
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+[contributors-shield]: https://img.shields.io/github/contributors/kbram/half-pie-chart.svg?style=for-the-badge
+[contributors-url]: https://github.com/kbram/half-pie-chart/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/kbram/half-pie-chart.svg?style=for-the-badge
+[forks-url]: https://github.com/kbram/half-pie-chart/network/members
+[stars-shield]: https://img.shields.io/github/stars/kbram/half-pie-chart.svg?style=for-the-badge
+[stars-url]: https://github.com/kbram/half-pie-chart/stargazers
+[issues-shield]: https://img.shields.io/github/issues/kbram/half-pie-chart.svg?style=for-the-badge
+[issues-url]: https://github.com/kbram/half-pie-chart/issues
+[license-shield]: https://img.shields.io/github/license/kbram/half-pie-chart.svg?style=for-the-badge
+[license-url]: https://github.com/kbram/half-pie-chart/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/bavaram
