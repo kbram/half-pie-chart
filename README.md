@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/kbram/half-pie-chart">
-    <img src="https://github.com/kbram/files/blob/main/half-pie-icon.png" alt="Logo" width="140" height="140">
+    <img src="https://github.com/kbram/files/blob/main/half-pie-icon.png" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">half-pie-chart</h3>
