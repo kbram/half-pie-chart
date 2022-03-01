@@ -1,6 +1,6 @@
 {
   "name": "half-pie-chart",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simply use Half Doughnut Chart to compare two element ratio",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
