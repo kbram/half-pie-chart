@@ -58,7 +58,7 @@
 ## About Project
 
 [![](https://github.com/kbram/files/blob/main/half-pie.png)](https://github.com/kbram/files/blob/main/half-pie.png)
-
+This UI kit is simply represent ratio of two values with the pie chart. It's fully worked on react Js. In this graph is customizable, you can change color, text, font-style,back color. You can get percentage of ratio in center part.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
