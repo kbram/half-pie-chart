@@ -196,7 +196,7 @@ export class HalfPieChart extends Component {
           >
             {this.props.title}
           </h1>
-          <ul class={"chart-skills-" + this.props.name}>
+          <ul className={"chart-skills-" + this.props.name}>
             {this.props.right[0] && <li></li>}
             {this.props.left[0] && <li></li>}
           </ul>
